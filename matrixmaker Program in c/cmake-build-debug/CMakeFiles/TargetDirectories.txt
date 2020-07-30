@@ -1,0 +1,3 @@
+/home/yair/CLionProjects/matrixmaker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yair/CLionProjects/matrixmaker/cmake-build-debug/CMakeFiles/matrixmaker.dir
+/home/yair/CLionProjects/matrixmaker/cmake-build-debug/CMakeFiles/edit_cache.dir
